@@ -1,0 +1,11 @@
+{
+  "name": "guia_hoteles",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto con Bootstrap Nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Andres Bolaños",
+  "license": "ISC"
+}
