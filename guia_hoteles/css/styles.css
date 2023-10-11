@@ -1,6 +1,11 @@
 .jumbotron {
+    display: flex;
     background-color: rgb(255, 203, 32);
     color: black;
+    margin-top: 32px;
+    height: 150px;
+    align-items: center;
+    padding: 30px;
 }
 
 footer {
