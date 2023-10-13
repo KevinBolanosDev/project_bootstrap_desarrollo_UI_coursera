@@ -1,4 +1,4 @@
-1. **Creación** <hr>
+1. **Creación**
 He creado mi primer proyecto con Bootstrap y Node.js.
 
 2. **Configuración**
@@ -19,3 +19,6 @@ Añadi un formulario a la seccion de contactos
 
 7. **Tabla de precios**
 Inserte una tabla con los precios de los hoteles
+
+8. **Organizando tarjetas**
+Estilice las tarjetas del contenido de hoteles, dando margenes y  agregando imagenes, también acomodando los botones
