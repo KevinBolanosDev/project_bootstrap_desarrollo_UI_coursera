@@ -10,3 +10,6 @@ también comence a implementar Bootstrap para desarrollar el contenido de la pag
 
 4. Navbar y Breadcrumb
 Diseñe la barra de navegación y la ruta de navegación
+
+5. Iconos
+Agregué iconos para darle mas estetica a la pagina
