@@ -22,3 +22,6 @@ Inserte una tabla con los precios de los hoteles
 
 8. **Organizando tarjetas**
 Estilice las tarjetas del contenido de hoteles, dando margenes y  agregando imagenes, también acomodando los botones
+
+9. **Trabajando con tabs y pills**
+Agregando componentens de js que vienen predeterminados de bootstrap
